@@ -1,5 +1,5 @@
 # task_manager.py
-class TaskManager:
+class task_manager:
     def __init__(self):
         self.tasks = []
 
