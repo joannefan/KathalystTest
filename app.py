@@ -1,11 +1,11 @@
 # app.py
 from task import Task
-from task_manager import TaskManager
-from user_interface import UserInterface
+from task_manager import task_manager
+from user_interface import user_interface
 
 def main():
-    task_manager = TaskManager()
-    ui = UserInterface()
+    task_manager = task_manager()
+    ui = user_interface()
 
     while True:
         ui.display_menu()

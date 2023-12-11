@@ -1,5 +1,5 @@
 # user_interface.py
-class UserInterface:
+class user_interface:
     @staticmethod
     def display_menu():
         print("Task Manager Menu:")
