@@ -1,1 +1,2 @@
-# task manager
+# task manager 
+ TaskManager is a python project.
